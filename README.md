@@ -31,9 +31,10 @@
 
 ### 📊 GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mehmehme&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmehme&layout=compact&theme=tokyonight" />
-
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mehmehme&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmehme&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</div>
 
 ---
 
