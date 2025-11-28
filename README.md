@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="github-readme-stats-red-ten-56.vercel.app/api?username=mehmehme&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="github-readme-stats-red-ten-56.vercel.app/api/top-langs/?username=mehmehme&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-red-ten-56.vercel.app/api?username=mehmehme&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-red-ten-56.vercel.app/api/top-langs/?username=mehmehme&layout=compact&theme=tokyonight" />
 </div>
 
 ---
